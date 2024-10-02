@@ -1,8 +1,14 @@
+Here’s a revised version of the README with a smaller, centered icon:
+
+---
+
 # 🎉 Internet Speed Test Application for macOS by Proxlight
 
-![App Icon](assets/icon.png)
+<div align="center">
+  <img src="assets/app_icon.png" alt="App Icon" width="150" height="150">
+</div>
 
-Welcome to the **Internet Speed Test Application** by **Proxlight**! This macOS app allows you to quickly and easily check your download, upload, and ping speeds in a beautifully designed, easy-to-use interface.
+Welcome to the **Internet Speed Test Application** by **Proxlight**! This macOS app allows you to check your download, upload, and ping speeds with a simple, clean interface designed for ease of use.
 
 ---
 
@@ -10,7 +16,7 @@ Welcome to the **Internet Speed Test Application** by **Proxlight**! This macOS 
 - **Check your Download Speed** in Mbps.
 - **Measure your Upload Speed** in Mbps.
 - **Get your Ping** in milliseconds.
-- **Simple & Clean UI** designed for ease of use.
+- **Easy-to-Use Interface** optimized for fast results.
 
 ---
 
@@ -19,29 +25,33 @@ Welcome to the **Internet Speed Test Application** by **Proxlight**! This macOS 
 1. **Download the App**  
    Click the button below to download the `.app` file for macOS.
 
-   [![Download Button](assets/download_button.png)](https://example.com/download-link)
+   <div align="center">
+     <a href="https://example.com/download-link"><img src="assets/download_button.png" alt="Download Button" width="200"></a>
+   </div>
 
 2. **Run the App**  
-   After downloading, double-click the `.app` file to launch the Internet Speed Test application. If you encounter any security warnings, you may need to allow the app in your macOS Security Preferences.
+   After downloading, double-click the `.app` file to launch the Internet Speed Test application. If macOS displays a security warning, allow the app in your Security Preferences.
 
 ---
 
 ## 🎨 Want to Customize the App?
 
-Get the **Pro Version** on Gumroad!  
+Unlock the **Pro Version** on Gumroad!  
 In the Pro Version, you can:
 - Access the full **Figma design file** for easy customization.
 - Remove the watermark.
-- Customize fonts, colors, and layout to match your brand or personal style.
+- Customize fonts, colors, and layout to fit your style or brand.
 
-👉 [Get the Pro Version Here](https://proxlightapps.gumroad.com/l/Speedtest)
+<div align="center">
+  👉 [Get the Pro Version Here](https://proxlightapps.gumroad.com/l/Speedtest)
+</div>
 
 ---
 
 ## 📥 Download Options
 
-- **Free Version**: Includes the core features with a watermark.
-- **Pro Version**: Comes with full customization via Figma and no watermark.
+- **Free Version**: Includes core features with a watermark.
+- **Pro Version**: Fully customizable via Figma, no watermark.
 
 **Download your preferred version and start testing your internet speed today!**
 
@@ -49,6 +59,9 @@ In the Pro Version, you can:
 
 ## 🛠️ Support
 
-If you experience any issues or need assistance with the app, feel free to reach out to us at **proxlight02@gmail.com**.
-
+For any issues or questions, contact us at **support@proxlight.com**.  
 Thank you for using the **Internet Speed Test App** by **Proxlight**!
+
+---
+
+This version centers the smaller icon and download button, ensuring a cleaner and more professional look. You can adjust the image sizes as necessary!
