@@ -1,7 +1,3 @@
-Here's an updated version of the README that includes a link to directly download the `.zip` file named **Speed Test macOS.zip**. Make sure you replace the placeholder URL with the actual path to your hosted file.
-
----
-
 # 🎉 Internet Speed Test Application for macOS by Proxlight
 
 <br>
