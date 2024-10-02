@@ -1,8 +1,9 @@
 # 🎉 Internet Speed Test Application for macOS by Proxlight
 
 <div align="center">
-  <img src="assets/icon.png" alt="App Icon" width="150" height="150">
+  <img src="assets/icon.png" alt="App Icon" width="125" height="125">
 </div>
+
 
 Welcome to the **Internet Speed Test Application** by **Proxlight**! This macOS app allows you to check your download, upload, and ping speeds with a simple, clean interface designed for ease of use.
 
