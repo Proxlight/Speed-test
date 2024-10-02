@@ -1,11 +1,17 @@
+Here's an updated version of the README that includes a link to directly download the `.zip` file named **Speed Test macOS.zip**. Make sure you replace the placeholder URL with the actual path to your hosted file.
+
+---
+
 # 🎉 Internet Speed Test Application for macOS by Proxlight
 
+<br>
 <div align="center">
-  <img src="assets/icon.png" alt="App Icon" width="125" height="125">
+  <img src="assets/icon.png" alt="App Icon" width="100" height="100">
 </div>
 
+<br>
 
-Welcome to the **Internet Speed Test Application** by **Proxlight**! This macOS app allows you to check your download, upload, and ping speeds with a simple, clean interface designed for ease of use.
+Welcome to the **Internet Speed Test Application** by **Proxlight**! This macOS app allows you to check your download, upload, and ping speeds with a sleek and user-friendly interface.
 
 ---
 
@@ -13,31 +19,36 @@ Welcome to the **Internet Speed Test Application** by **Proxlight**! This macOS 
 - **Check your Download Speed** in Mbps.
 - **Measure your Upload Speed** in Mbps.
 - **Get your Ping** in milliseconds.
-- **Easy-to-Use Interface** optimized for fast results.
+- **Simple, Fast, and Easy-to-Use Interface**.
 
 ---
 
 ## 🖥️ Installation Instructions:
 
 1. **Download the App**  
-   Click the button below to download the `.app` file for macOS.
+   Click the button below to download the `.zip` file containing the application.
 
    <div align="center">
-     <a href="https://example.com/download-link"><img src="assets/download_button.png" alt="Download Button" width="200"></a>
+     <a href="https://example.com/Speed%20Test%20macOS.zip"><img src="assets/download_button.png" alt="Download Button" width="200"></a>
    </div>
 
-2. **Run the App**  
-   After downloading, double-click the `.app` file to launch the Internet Speed Test application. If macOS displays a security warning, allow the app in your Security Preferences.
+   *(Replace `https://example.com/Speed%20Test%20macOS.zip` with your actual file download link)*
+
+2. **Unzip the File**  
+   Once downloaded, unzip **Speed Test macOS.zip** in your desired directory.
+
+3. **Run the App**  
+   Double-click the `.app` file inside the extracted folder to start using the Internet Speed Test application. If you encounter security warnings, you may need to allow the app to run in your macOS Security & Privacy settings.
 
 ---
 
 ## 🎨 Want to Customize the App?
 
-Unlock the **Pro Version** on Gumroad!  
-In the Pro Version, you can:
-- Access the full **Figma design file** for easy customization.
-- Remove the watermark.
-- Customize fonts, colors, and layout to fit your style or brand.
+Get the **Pro Version** on Gumroad for even more features!  
+In the Pro Version, you get:
+- The full **Figma design file** for easy customization.
+- No watermark.
+- Total control over the look and feel of your app!
 
 <div align="center">
   👉 [Get the Pro Version Here](https://proxlightapps.gumroad.com/l/Speedtest)
@@ -47,8 +58,8 @@ In the Pro Version, you can:
 
 ## 📥 Download Options
 
-- **Free Version**: Includes core features with a watermark.
-- **Pro Version**: Fully customizable via Figma, no watermark.
+- **Free Version**: Includes the core features with a watermark.
+- **Pro Version**: Fully customizable and watermark-free, perfect for developers and designers.
 
 **Download your preferred version and start testing your internet speed today!**
 
@@ -56,6 +67,13 @@ In the Pro Version, you can:
 
 ## 🛠️ Support
 
-For any issues or questions, contact us at **proxlight02@gmail.com**.  
+For any questions or assistance, reach out to us at **support@proxlight.com**.  
 Thank you for using the **Internet Speed Test App** by **Proxlight**!
 
+---
+
+### Notes:
+- The link to the `.zip` file should point to the hosted location of the file (e.g., on your website, cloud storage like Google Drive, or GitHub Releases).
+- Make sure to test the download link to ensure it works seamlessly for your users.
+
+This README now includes the direct download link functionality for the `.zip` file.
